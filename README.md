@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AleksySYS
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Web Developing
 - 🌱 I’m currently learning Python & SQL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Aleksy.adamczyk1996@gmail.com
 
 <!---
