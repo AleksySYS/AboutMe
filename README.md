@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleksySYS
-- 👀 I’m interested in Data Science and Web Developing
+- 👀 I’m interested in Data Analysis and Web Developing
 - 🌱 I’m currently learning Python & SQL & JS & CSS & HTML
 - 📫 How to reach me ... Aleksy.adamczyk1996@gmail.com
 
