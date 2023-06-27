@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksySYS
-- 👀 I’m interested in Creating applications, Data Analysis and Web Developing
-- 🌱 I’m currently learning C++ $ Python & SQL & JS & CSS & HTML
+- 👀 I’m interested in Creating applications and Data Analysis 
+- 🌱 I’m currently learning C++ $ Python & SQL 
 - 📫 How to reach me ... Aleksy.adamczyk1996@gmail.com
 
 <!---
